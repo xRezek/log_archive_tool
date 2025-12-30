@@ -8,6 +8,7 @@
   **Clone repository**
   ```
     git clone https://github.com/xRezek/log_archive_tool
+    cd log_archive_tool
   ```
 ### STEP 2
   **Add proper premissions**
@@ -21,4 +22,4 @@
     log-archive.sh <log-directory>
   ```
 
-  I took the idea from [roadman.sh](https://roadmap.sh/projects/log-archive-tool)
+  I took the idea from [roadmap.sh](https://roadmap.sh/projects/log-archive-tool)
