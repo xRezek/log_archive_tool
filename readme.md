@@ -1,6 +1,6 @@
 # Log Archive Tool
 
- It is a simple tool to archive files such as logs etc. It will help you to keeping your system logs clean and organized while mainatinig the logs for future reference.
+ It is a simple tool to archive files such as logs etc. It will help you to keeping your system logs clean and organized while maintainig the logs for future reference.
 
  ## Instalation guide
 
